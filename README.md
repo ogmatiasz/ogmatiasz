@@ -22,5 +22,3 @@ Assim como Agostinho Carrara, sou um amante, não de carros, mas da tecnologia!<
 ![](https://github-contributor-stats.vercel.app/api?username=ogmatiasz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ogmatiasz&icon=0&color=0)](https://visitcount.itsvg.in)
-
